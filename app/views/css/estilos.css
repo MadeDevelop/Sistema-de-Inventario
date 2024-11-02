@@ -118,7 +118,7 @@ body,html{
 /*=============Estilos barra superior*/
 .navBar{
     background-color: #3F51B5;
-    height: 45px;
+    height: 75px;
     color: #fff;
     position: relative;
     margin-bottom: 30px;
@@ -213,7 +213,7 @@ body,html{
     position: relative;
 }
 .navLateral-body-logo{
-    height: 45px;
+    height: 75px;
     line-height: 45px;
     color: #fff;
     width: 100%;
