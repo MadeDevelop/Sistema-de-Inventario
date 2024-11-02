@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost/VENTAS/";
+	const APP_URL="https://inventario.madebl.online/";
 	const APP_NAME="VENTAS";
 	const APP_SESSION_NAME="POS";
 
