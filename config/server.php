@@ -1,6 +1,6 @@
 <?php
 
 	const DB_SERVER="localhost";
-	const DB_NAME="ventas";
-	const DB_USER="root";
-	const DB_PASS='';
+	const DB_NAME="u583014169_inventarioMade";
+	const DB_USER="u583014169_inventarioMade";
+	const DB_PASS='gtaV19921963';
