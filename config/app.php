@@ -1,19 +1,19 @@
 <?php
 
 	const APP_URL="https://inventario.madebl.online/";
-	const APP_NAME="VENTAS";
+	const APP_NAME="Inventario";
 	const APP_SESSION_NAME="POS";
 
 	/*----------  Tipos de documentos  ----------*/
-	const DOCUMENTOS_USUARIOS=["DUI","DNI","Cedula","Licencia","Pasaporte","Otro"];
+	const DOCUMENTOS_USUARIOS=["CI","DNI","Cedula","Licencia","Pasaporte","Otro"];
 
 
 	/*----------  Tipos de unidades de productos  ----------*/
 	const PRODUCTO_UNIDAD=["Unidad","Libra","Kilogramo","Caja","Paquete","Lata","Galon","Botella","Tira","Sobre","Bolsa","Saco","Tarjeta","Otro"];
 
 	/*----------  Configuración de moneda  ----------*/
-	const MONEDA_SIMBOLO="$";
-	const MONEDA_NOMBRE="USD";
+	const MONEDA_SIMBOLO="Bs.";
+	const MONEDA_NOMBRE="Bs.";
 	const MONEDA_DECIMALES="2";
 	const MONEDA_SEPARADOR_MILLAR=",";
 	const MONEDA_SEPARADOR_DECIMAL=".";
@@ -23,7 +23,7 @@
 	const CAMPO_OBLIGATORIO='&nbsp; <i class="fas fa-edit"></i> &nbsp;';
 
 	/*----------  Zona horaria  ----------*/
-	date_default_timezone_set("America/El_Salvador");
+	date_default_timezone_set("America/La_Paz");
 
 	/*
 		Configuración de zona horaria de tu país, para más información visita

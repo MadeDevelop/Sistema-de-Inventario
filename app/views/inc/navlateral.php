@@ -285,7 +285,7 @@
 							<i class="fas fa-shopping-cart fa-fw"></i>
 						</div>
 						<div class="navLateral-body-cr">
-							VENTAS
+							Inventario
 						</div>
 						<span class="fas fa-chevron-down"></span>
 					</a>
